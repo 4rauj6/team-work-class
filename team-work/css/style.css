@@ -99,7 +99,13 @@ main-header {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 20px;
+    gap: 10px;
+}
+
+.containers-2 img {
+    width: 9%;
+    height: auto;
+    object-fit: contain;
 }
 
 
@@ -110,7 +116,7 @@ main-header {
     gap: 30px;
     background-color: white;
     width: 35%;
-    height: 15vh;
+    min-height: 13vh;
     padding: 14px;
     border-radius: 10px;
 }
@@ -118,10 +124,10 @@ main-header {
 .foco {
     display: flex;
     flex-direction: row;
-    gap: 60px;
+    gap: 30px;
     background-color: white;
     width: 35%;
-    height: 15vh;
+    min-height: 13vh;
     padding: 14px;
     border-radius: 10px;
 }
@@ -134,7 +140,7 @@ main-header {
     gap: 30px;
     background-color: white;
     width: 35%;
-    height: 15vh;
+    min-height: 13vh;
     padding: 14px;
     border-radius: 10px;
 }
@@ -145,7 +151,7 @@ main-header {
     gap: 30px;
     background-color: white;
     width: 35%;
-    height: 15vh;
+    min-height: 13vh;
     padding: 14px;
     border-radius: 10px;
 }
@@ -164,7 +170,6 @@ main-header {
     width: 70%;
     font-size: 1.01em;
 }
-
 /* Configuração do Header - João */
 .main-header {
     display: flex;
