@@ -204,3 +204,10 @@ main-header {
     text-decoration: none;
     font-weight: 500;
 }
+
+.footer-div {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
