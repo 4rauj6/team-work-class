@@ -104,12 +104,11 @@ main-header {
 }
 
 .containers-2 img {
-    width: 9%;
+    width: 12%;
+    padding: 0 15px;
     height: auto;
     object-fit: contain;
 }
-
-
 
 .inovacao {
     display: flex;
